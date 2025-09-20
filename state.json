@@ -1,4 +1,4 @@
 {
-  "scheduler": false,
+  "scheduler": true,
   "app": true
 }
