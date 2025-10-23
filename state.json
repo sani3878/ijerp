@@ -1,6 +1,7 @@
 {
   "scheduler": true,
   "app": true,
+  "super_admin_email": "sani3878@yahoo.com",
   "super_admin_pwd": "just3878"
 }
 
