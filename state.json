@@ -1,6 +1,6 @@
 {
   "scheduler": true,
   "app": true,
-  "super_admin_email": "superadmin@yourdomain.com"
+  "super_admin_pwd": "just3878"
 }
 
